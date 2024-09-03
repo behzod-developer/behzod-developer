@@ -52,7 +52,7 @@ I’m a passionate Front End Developer with a strong foundation in React.js and 
 ## 🎖️ Certifications
 
 - **Frontend Development Certificates**
-- ![Fintechhub Certificate](https://img.shields.io/badge/Fintechhub%20Certificate-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)Ï
+- ![W3Schools Certificate](https://img.shields.io/badge/W3Schools%20Certificate-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
   - ![Menz Certificate](https://img.shields.io/badge/Menz%20Certificate-%23E34F26.svg?style=for-the-badge)
   - ![Fintechhub Certificate](https://img.shields.io/badge/Fintechhub%20Certificate-%2361DAFB.svg?style=for-the-badge)
 
